@@ -1,0 +1,6 @@
+projectKey=maven-jenkins-sonarqube
+serverUrl=http://localhost:9000
+serverVersion=6.7.7.38951
+dashboardUrl=http://localhost:9000/dashboard/index/maven-jenkins-sonarqube
+ceTaskId=AWxsYOeo-mbUjhCoCxQI
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWxsYOeo-mbUjhCoCxQI
